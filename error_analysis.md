@@ -1,0 +1,1 @@
+Even when accuracy remains high under lexical perturbations, model confidence decreases for advisories with overlapping operational semantics (e.g., GDP vs GS). This suggests confidence-based thresholds may be useful for identifying cases requiring human review in safety-critical ATM decision support systems.
